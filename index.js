@@ -26,7 +26,7 @@ chart.load([
     id: 2,
     pids: [1],
     name: 'เทียม',
-    title: 'The Queen Mother',
+    // title: 'The Queen Mother',
     img: './public/14.jpg',
     gender: 'female',
   },
