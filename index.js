@@ -18,7 +18,7 @@ chart.load([
     id: 1,
     pids: [2],
     name: 'ขาว',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
     เกิด: 'male',
   },
@@ -27,7 +27,7 @@ chart.load([
     pids: [1],
     name: 'เทียม',
     // title: 'The Queen Mother',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
 
@@ -37,7 +37,7 @@ chart.load([
     fid: 1,
     pids: [7],
     name: 'ดวงดาว',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
 
@@ -57,7 +57,7 @@ chart.load([
     pids: [9],
     fid: 1,
     name: 'บินหลา',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
   {
@@ -66,21 +66,21 @@ chart.load([
     pids: [10],
     fid: 1,
     name: 'สมพร',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
   {
     id: 7,
     pids: [3],
     name: 'แว่น',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
   {
     id: 8,
     pids: [4],
     name: 'เทอดศักดิ์',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
   {
@@ -94,7 +94,7 @@ chart.load([
     id: 10,
     pids: [6],
     name: 'ขวัญ',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
 
@@ -113,7 +113,7 @@ chart.load([
     mid: 3,
     fid: 7,
     name: 'ทรงวิทย์',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
   {
@@ -138,7 +138,7 @@ chart.load([
     mid: 4,
     fid: 8,
     name: 'วรินทร',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
 
@@ -147,7 +147,7 @@ chart.load([
     mid: 9,
     fid: 5,
     name: 'มิวล์',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
   {
@@ -155,7 +155,7 @@ chart.load([
     mid: 9,
     fid: 5,
     name: 'มิกกี้',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
 
@@ -172,7 +172,7 @@ chart.load([
     mid: 10,
     fid: 6,
     name: 'คุกกี้',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
   {
@@ -180,7 +180,7 @@ chart.load([
     mid: 10,
     fid: 6,
     name: 'คิตตี้',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
 
@@ -196,14 +196,14 @@ chart.load([
     mid: 21,
     fid: 11,
     name: 'อลิน',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'female',
   },
   {
     id: 23,
     mid: 16,
     name: 'แมสซี่',
-    img: './public/14.jpg',
+    img: './public/0.webp',
     gender: 'male',
   },
 
@@ -221,7 +221,7 @@ chart.load([
   //     mid: 2,
   //     fid: 1,
   //     name: 'Princess Margaret',
-  //     img: './public/14.jpg',
+  //     img: './public/0.webp',
   //     gender: 'male',
   //   },
 
