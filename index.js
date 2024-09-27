@@ -47,8 +47,9 @@ chart.load([
     pids: [8],
     fid: 1,
     name: 'ดวงจันทร์',
-    img: './public/14.jpg',
+    img: './public/4.jpeg',
     gender: 'female',
+    เกิด: '20/12/2510',
   },
   {
     id: 5,
@@ -86,13 +87,13 @@ chart.load([
     id: 9,
     pids: [5],
     name: 'นพพร',
-    img: './public/14.jpg',
+    img: './public/10.jpeg',
     gender: 'female',
   },
   {
     id: 10,
     pids: [6],
-    name: 'นพพร',
+    name: 'ขวัญ',
     img: './public/14.jpg',
     gender: 'female',
   },
@@ -104,7 +105,7 @@ chart.load([
     fid: 7,
     pids: [21],
     name: 'ทรงพล',
-    img: './public/14.jpg',
+    img: './public/11.jpeg',
     gender: 'male',
   },
   {
@@ -120,7 +121,7 @@ chart.load([
     mid: 3,
     fid: 7,
     name: 'นันทวรรณ',
-    img: './public/14.jpg',
+    img: './public/13.jpeg',
     gender: 'female',
   },
 
@@ -163,7 +164,7 @@ chart.load([
     mid: 10,
     fid: 6,
     name: 'เค้ก',
-    img: './public/14.jpg',
+    img: './public/18.jpeg',
     gender: 'female',
   },
   {
@@ -187,7 +188,7 @@ chart.load([
     id: 21,
     pids: [11],
     name: 'ต่าย',
-    img: './public/14.jpg',
+    img: './public/22.jpeg',
     gender: 'female',
   },
   {
